@@ -1,1 +1,7 @@
-"# STM32_Ethernet-RS485_gate" 
+# STM32 Ethernet-RS485 шлюз для Mysensors
+
+Вашему вниманию предлагается рабочий проект Ethernet-RS485 шлюза Mysensors на базе МК STM32F103CB(8)T6, в него входят гербер файлы (вторая ревизия), BOM, принципиальная схема шлюза.
+
+![MYS_gate](https://user-images.githubusercontent.com/48506975/74336831-2515f400-4db0-11ea-9ecd-b43383d706dc.jpg)
+
+Вопросы по работе, сборке и т.п. шлюза можно задавать в группе Телеграмм - [Mysensors](https://t.me/mysensors_rus "Русскоязычная группа Mysensors").
